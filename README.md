@@ -1,5 +1,7 @@
 # Retail embeddings demo
 
+See this Medium article for tips and tricks for getting started: [Make magic with Mesop: python based web apps](https://mandieq.medium.com/make-magic-with-mesop-python-based-web-apps-0fb60999b18d).
+
 A simple demo app created using the [Mesop UI framework](https://github.com/google/mesop). 
 
 The app does the following:
